@@ -5,7 +5,10 @@
    font-family: yongasabi block; 
 }
 .beechfont {
-   font-family: beech; 
+   font-family: beech;
+}
+.font {
+   color: grey;
 }
 body {
    background-image: url(img/background.png);
