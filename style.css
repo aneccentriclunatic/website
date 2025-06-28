@@ -1,6 +1,9 @@
 @import url('https://www.dafont.com/beech.font');
+@import url('https://drive.google.com/file/d/1RgxfbI2Ywa6rtx-RawGkG9lfL9zB1GWl/view');
 
-.font {
-   font-family: beech;
-   
+.yongfont {
+   font-family: yongasabi block; 
+}
+.beechfont {
+   font-family: beech; 
 }
