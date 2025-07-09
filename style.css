@@ -1,8 +1,11 @@
 @import url('https://www.dafont.com/beech.font');
 @import url('https://drive.google.com/file/d/1RgxfbI2Ywa6rtx-RawGkG9lfL9zB1GWl/view');
-
+@font-face {
+   font-family: Yongasabi Block;
+   src: url('https://drive.google.com/file/d/1RgxfbI2Ywa6rtx-RawGkG9lfL9zB1GWl/view');
+}
 .yongfont {
-   font-family: yongasabi block; 
+   font-family: Yongasabi Block;
 }
 .beechfont {
    font-family: beech;
