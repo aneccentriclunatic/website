@@ -7,13 +7,19 @@
 .beechfont {
    font-family: beech;
 }
-.font {
-   color: grey;
-}
 body {
    background-image: url(img/background.png);
    background-repeat: no-repeat;
    background-position: center;
    background-attachment: fixed;
    background-size: cover;
+}
+p {
+   color: grey;
+}
+h1 {
+   color: grey;
+}
+h2 {
+   color: grey;
 }
