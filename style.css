@@ -2,16 +2,25 @@
    font-family: Yongasabi;
    src: url(fonts/YongasabiBlock.ttf);
 }
+
 @font-face {
    font-family: Beech;
    src: url(fonts/beech.ttf);
 }
+
+@font-face {
+   font-family: bstrd;
+   src: url(fonts/NewspaperCutoutWhiteOnBlac-Rg.ttf);
+}
+
 .yongfont {
    font-family: Yongasabi;
 }
+
 .beechfont {
    font-family: Beech;
 }
+
 body {
    background-image: url(img/background.png);
    background-repeat: no-repeat;
@@ -19,12 +28,14 @@ body {
    background-attachment: fixed;
    background-size: cover;
 }
-p {
+
+* {
    color: grey;
 }
-h1 {
-   color: grey;
-}
-h2 {
-   color: grey;
+
+.bstrdfont {
+   font-family: bstrd;
+   color: #FF0066;
+   font-size: 3em; 
+   line-height: 1em;
 }
