@@ -56,3 +56,6 @@ body {
    width: 120px;
    font-size: 18px;
 }
+* {
+   cursor: url(img/qouverjoyous.png), auto;
+}
