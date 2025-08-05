@@ -33,6 +33,7 @@ body {
    color: grey;
    text-align: center;
    font-family: Beech;
+   cursor: url(img/qouverjoyous.png), auto;
 }
 
 .bstrdfont {
@@ -56,6 +57,7 @@ body {
    width: 120px;
    font-size: 18px;
 }
-* {
-   cursor: url(img/qouverjoyous.png), auto;
+#links *{
+   height: 20px;
+   margin-top: 4px;
 }
